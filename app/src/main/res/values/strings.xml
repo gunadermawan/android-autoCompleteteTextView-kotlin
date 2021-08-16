@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">autoCompleteteTextView</string>
+    <string name="hint">Silahkan ketikan bahasa pemrograman...</string>
+    <string name="submit">Submit</string>
+    <string name="submitLanguage">Bahasa yang kamu masukan adalah </string>
+
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perls</item>
+        <item>JavaScript</item>
+        <item>Jquery</item>
+    </string-array>
+</resources>
